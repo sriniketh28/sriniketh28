@@ -9,22 +9,11 @@
 
 #### Apart from technical skills my soft skills include Leadership, Teamwork 🤝 and Patience. I am not born with any special qualities but I make myself special 😁 as I grow.
 
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='dev' height='40'>](https://www.google.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]((https://www.google.com))  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>]((https://www.google.com))  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>]((https://www.google.com))  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='twitter' height='40'>]((https://www.google.com)) 
+#### Want to work together 🤝 ? or Just want to say hi? 
+#### Drop me a mail 📩 
+[![Gmail Badge](https://img.shields.io/badge/-sriniketh28@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sriniketh@gmail.com)](mailto:sriniketh28@gmail.com) 
+or connect with me on web 🕸.
 
-<!--
-**sriniketh28/sriniketh28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![Sriniketh's github stats](https://github-readme-stats.vercel.app/api?username=sriniketh28&show_icons=true&theme=highcontrast)
 <br>
 ![Profile views](https://gpvc.arturio.dev/sriniketh28)
