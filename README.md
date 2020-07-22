@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Sriniketh
 
-<img align=“center” src="https://i.ibb.co/pQrzfv5/github.png" alt=“drawing” width=“100%”/>
+<img align=“center” src="https://i.postimg.cc/Bbmg0Csx/github.png" alt=“image” width=“100%”/>
 
 <!--
 **sriniketh28/sriniketh28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
