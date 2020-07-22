@@ -32,7 +32,7 @@
 
 ## MY STATS
 
-<img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
+<img align="right" height="200" width="300" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
 ![Sriniketh's github stats](https://github-readme-stats.vercel.app/api?username=sriniketh28&show_icons=true&theme=highcontrast)
 <br>
