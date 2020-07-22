@@ -9,10 +9,15 @@
 
 #### Apart from technical skills my soft skills include Leadership, Teamwork 🤝 and Patience. I am not born with any special qualities but I make myself special 😁 as I grow.
 
+### Contact Me
+
 #### Want to work together 🤝 ? or Just want to say hi? 
+
 #### Drop me a mail 📩 
 [![Gmail Badge](https://img.shields.io/badge/-sriniketh28@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sriniketh@gmail.com)](mailto:sriniketh28@gmail.com) 
-or connect with me on web 🕸.
+### or connect with me on web 🕸.
+[![Linkedin Badge](https://img.shields.io/badge/SrinikethMuppaneni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sriniketh-muppaneni-8b0b3417b/)](https://www.linkedin.com/in/sriniketh-muppaneni-8b0b3417b/)
+[![Facebook Badge](https://img.shields.io/badge/SriNiketh-3A549E?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/sriniketh28/)](https://www.facebook.com/sriniketh28/)
 
 ![Sriniketh's github stats](https://github-readme-stats.vercel.app/api?username=sriniketh28&show_icons=true&theme=highcontrast)
 <br>
