@@ -22,7 +22,7 @@
 
 ## CONTACT ME
 
-<img align="right" height="200" width="300" alt="GIF" src="https://tenor.com/3o2m.gif" />
+<img align="right" height="200" width="300" alt="GIF" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" />
 
 ### Want to work together 🤝 ? or Just want to say hi? 
 
