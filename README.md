@@ -1,6 +1,15 @@
 
 ## Hi there 👋, I'm Sriniketh
 
+<a href="https://www.facebook.com/sriniketh28/">
+  <img align="left" alt="Sriniketh Muppaneni's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.linkedin.com/in/sriniketh-muppaneni-8b0b3417b/">
+  <img align="left" alt="Sriniketh Muppaneni's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://medium.com/@sriniketh28">
+  <img align="left" alt="Sriniketh Muppaneni's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+
 <img align=“center” src="https://i.postimg.cc/Bbmg0Csx/github.png" alt=“image” width=“100%”/>
 
 ## ABOUT ME 
