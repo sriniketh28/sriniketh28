@@ -22,7 +22,7 @@
 
 ## CONTACT ME
 
-<img align="right" height="200" width="300" alt="GIF" src="https://media.tenor.com/images/dc545e5a0f93c9b2bf1d4f0af54ebbff/tenor.gif" />
+<img align="right" height="200" width="300" alt="GIF" src="https://tenor.com/view/sultan-alrefaei-programmer-office-gif-13165216" />
 
 ### Want to work together 🤝 ? or Just want to say hi? 
 
