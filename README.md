@@ -3,7 +3,7 @@
 
 <img align=“center” src="https://i.postimg.cc/Bbmg0Csx/github.png" alt=“image” width=“100%”/>
 
-## **ABOUT ME**
+## ABOUT ME **hey**
 
 #### I am a developer and designer . I love the world of Technology 🖥 and love to explore new technologies. I love to learn new things and explore new fields. I'm a self-taught developer and a fast learner.
 
