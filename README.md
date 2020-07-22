@@ -24,6 +24,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="#" target="_blank"><img height=“32” width=“32” src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/facebook.svg" /></a> 
-<a href="#" target="_blank"><img height=“32” width=“32” src="https://cdnjs.cloudflare.com/ajax/libs/ionicons/4.5.6/collection/build/ionicons/svg/logo-linkedin.svg" /></a> 
-<a href="#" target="_blank"><img height=“32” width=“32” src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg" /></a>
+<a href="#" target="_blank"><img height=“32” width=“32” src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/facebook.svg" /></a> <a href="#" target="_blank"><img height=“32” width=“32” src="https://cdnjs.cloudflare.com/ajax/libs/ionicons/4.5.6/collection/build/ionicons/svg/logo-linkedin.svg" /></a> <a href="#" target="_blank"><img height=“32” width=“32” src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg" /></a>
