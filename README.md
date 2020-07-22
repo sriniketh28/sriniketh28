@@ -21,6 +21,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/SrinikethMuppaneni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sriniketh-muppaneni-8b0b3417b/)](https://www.linkedin.com/in/sriniketh-muppaneni-8b0b3417b/)
 [![Facebook Badge](https://img.shields.io/badge/SriNiketh-3A549E?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/sriniketh28/)](https://www.facebook.com/sriniketh28/)
 
+## MY STATS
+
 ![Sriniketh's github stats](https://github-readme-stats.vercel.app/api?username=sriniketh28&show_icons=true&theme=highcontrast)
 <br>
 ![Profile views](https://gpvc.arturio.dev/sriniketh28)
