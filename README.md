@@ -8,7 +8,7 @@
   <img align="left" alt="Sriniketh Muppaneni's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://medium.com/@sriniketh28" target="_blank">
-  <img align="left" alt="Sriniketh Muppaneni's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+  <img align="left" alt="Sriniketh Muppaneni's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /></a>
 
 <img align=“center” src="https://i.postimg.cc/Bbmg0Csx/github.png" alt=“image” width=“100%”/>
 
